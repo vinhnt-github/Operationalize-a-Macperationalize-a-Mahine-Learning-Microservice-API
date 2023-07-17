@@ -1,5 +1,4 @@
 (.devops) ubuntu@ip-172-31-20-84:~/DevOps_Microservices/project-ml-microservice-kubernetes$ ./run_kubernetes.sh 
-Error from server (AlreadyExists): pods "udacity-micro" already exists
 NAME            READY   STATUS    RESTARTS      AGE
 udacity-micro   1/1     Running   1 (14m ago)   117m
 Forwarding from 127.0.0.1:8000 -> 80
