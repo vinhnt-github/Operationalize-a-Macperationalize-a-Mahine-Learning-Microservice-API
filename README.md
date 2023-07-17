@@ -1,6 +1,5 @@
 <img src="https://circleci.com/circleci-logo-stacked-fb.png" alt="drawing" width="100"/>
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/vinhnt-github/Operationalize-a-Macperationalize-a-Mahine-Learning-Microservice-API/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/vinhnt-github/Operationalize-a-Macperationalize-a-Mahine-Learning-Microservice-API/tree/main)
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/vinhnt-github/Operationalize-a-Macperationalize-a-Mahine-Learning-Microservice-API/tree/main.svg?style=svg)]
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
